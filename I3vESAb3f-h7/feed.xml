@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formal Political Economy (Edenhofer, Trinity 2026)</title>
+    <link>https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7</link>
+    <language>en-gb</language>
+    <description><![CDATA[Weekly audio companion to Jacob Edenhofer's Trinity Term 2026 course at Nuffield College, Oxford. One episode per week, working through that week's canonical model and the literature around it: electoral accountability, party competition and pork barrel, electoral rules, interest groups and lobbying, and democratic backsliding.]]></description>
+    <itunes:subtitle>A second introduction to formal political economy</itunes:subtitle>
+    <itunes:author>Reed Schwartz</itunes:author>
+    <itunes:owner>
+      <itunes:name>Reed Schwartz</itunes:name>
+      <itunes:email>reed.schwartzsf@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">yes</googleplay:block>
+    <atom:link href="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>M01 — Models of Electoral Accountability</title>
+      <itunes:title>M01 — Models of Electoral Accountability</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f1ab1a97a12614d48f938fecdc4450b4f4458324</guid>
+      <pubDate>Mon, 24 Aug 2026 15:40:47 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/01-models-of-electoral-accountability.mp3" length="18701267" type="audio/mpeg"/>
+      <itunes:duration>00:25:58</itunes:duration>
+      <description><![CDATA[<p><strong>Week 1 — Models of Electoral Accountability</strong> (27 April – 1 May)</p>
+<p>Whether elections discipline politicians by <em>selecting</em> good types or by <em>sanctioning</em> bad performance — and why the distinction collapses once the two mechanisms interact.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Ashworth, Bueno de Mesquita & Friedenberg (2017), <em>Accountability and Information in Elections</em> — AEJ: Micro</li>
+<li>Maskin & Tirole (2004), <em>The Politician and the Judge</em> — AER</li>
+<li>Besley & Prat (2006), <em>Handcuffs for the Grabbing Hand</em> — AER</li>
+<li>Stokes (2005), <em>Perverse Accountability</em> — APSR</li>
+<li>Duggan & Martinelli (2017), <em>The Political Economy of Dynamic Elections</em> — JEL</li>
+<li>Canes-Wrone, Herron & Shotts (2001), <em>Leadership and Pandering</em> — AJPS</li>
+<li>Fox & Shotts (2009), <em>Delegates or Trustees?</em> — JOP</li>
+<li>Landa & Duell (2015), <em>Social Identity and Electoral Accountability</em> — AJPS</li>
+<li>Dynes & Holbein (2020), <em>Noisy Retrospection</em> — APSR</li>
+</ul>
+<p>The week's sharpest result is that more information can make accountability worse: when effort and ability are substitutes, harder work by an incumbent muddies the signal voters use to judge type. Stokes and Besley & Prat both describe accountability running backwards — machine monitoring in one, media capture in the other. Dynes & Holbein sit awkwardly against all of it: if party control barely moves policy outcomes, what exactly are voters sanctioning?</p>
+<p><em>Not covered: Persson & Tabellini ch. 4.4/9.2–9.3, Fearon (1999) and Lupia & McCubbins (1998) are books and not in the source set.</em></p>]]></description>
+      <itunes:summary><![CDATA[<p><strong>Week 1 — Models of Electoral Accountability</strong> (27 April – 1 May)</p>
+<p>Whether elections discipline politicians by <em>selecting</em> good types or by <em>sanctioning</em> bad performance — and why the distinction collapses once the two mechanisms interact.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Ashworth, Bueno de Mesquita & Friedenberg (2017), <em>Accountability and Information in Elections</em> — AEJ: Micro</li>
+<li>Maskin & Tirole (2004), <em>The Politician and the Judge</em> — AER</li>
+<li>Besley & Prat (2006), <em>Handcuffs for the Grabbing Hand</em> — AER</li>
+<li>Stokes (2005), <em>Perverse Accountability</em> — APSR</li>
+<li>Duggan & Martinelli (2017), <em>The Political Economy of Dynamic Elections</em> — JEL</li>
+<li>Canes-Wrone, Herron & Shotts (2001), <em>Leadership and Pandering</em> — AJPS</li>
+<li>Fox & Shotts (2009), <em>Delegates or Trustees?</em> — JOP</li>
+<li>Landa & Duell (2015), <em>Social Identity and Electoral Accountability</em> — AJPS</li>
+<li>Dynes & Holbein (2020), <em>Noisy Retrospection</em> — APSR</li>
+</ul>
+<p>The week's sharpest result is that more information can make accountability worse: when effort and ability are substitutes, harder work by an incumbent muddies the signal voters use to judge type. Stokes and Besley & Prat both describe accountability running backwards — machine monitoring in one, media capture in the other. Dynes & Holbein sit awkwardly against all of it: if party control barely moves policy outcomes, what exactly are voters sanctioning?</p>
+<p><em>Not covered: Persson & Tabellini ch. 4.4/9.2–9.3, Fearon (1999) and Lupia & McCubbins (1998) are books and not in the source set.</em></p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Week 1 — Models of Electoral Accountability</strong> (27 April – 1 May)</p>
+<p>Whether elections discipline politicians by <em>selecting</em> good types or by <em>sanctioning</em> bad performance — and why the distinction collapses once the two mechanisms interact.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Ashworth, Bueno de Mesquita & Friedenberg (2017), <em>Accountability and Information in Elections</em> — AEJ: Micro</li>
+<li>Maskin & Tirole (2004), <em>The Politician and the Judge</em> — AER</li>
+<li>Besley & Prat (2006), <em>Handcuffs for the Grabbing Hand</em> — AER</li>
+<li>Stokes (2005), <em>Perverse Accountability</em> — APSR</li>
+<li>Duggan & Martinelli (2017), <em>The Political Economy of Dynamic Elections</em> — JEL</li>
+<li>Canes-Wrone, Herron & Shotts (2001), <em>Leadership and Pandering</em> — AJPS</li>
+<li>Fox & Shotts (2009), <em>Delegates or Trustees?</em> — JOP</li>
+<li>Landa & Duell (2015), <em>Social Identity and Electoral Accountability</em> — AJPS</li>
+<li>Dynes & Holbein (2020), <em>Noisy Retrospection</em> — APSR</li>
+</ul>
+<p>The week's sharpest result is that more information can make accountability worse: when effort and ability are substitutes, harder work by an incumbent muddies the signal voters use to judge type. Stokes and Besley & Prat both describe accountability running backwards — machine monitoring in one, media capture in the other. Dynes & Holbein sit awkwardly against all of it: if party control barely moves policy outcomes, what exactly are voters sanctioning?</p>
+<p><em>Not covered: Persson & Tabellini ch. 4.4/9.2–9.3, Fearon (1999) and Lupia & McCubbins (1998) are books and not in the source set.</em></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>M02 — Party Competition and Pork-Barrel Politics</title>
+      <itunes:title>M02 — Party Competition and Pork-Barrel Politics</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">33ea571293df52c018e3e870de3ddbed84106749</guid>
+      <pubDate>Tue, 25 Aug 2026 15:40:48 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/02-party-competition-and-pork-barrel-politics.mp3" length="20532563" type="audio/mpeg"/>
+      <itunes:duration>00:28:31</itunes:duration>
+      <description><![CDATA[<p><strong>Week 2 — Party Competition and Pork-Barrel Politics</strong> (4–8 May)</p>
+<p>How Downsian convergence breaks once you add valence, probabilistic voting and the ability to target transfers — and what a party actually <em>is</em> in a formal model.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Dixit & Londregan (1996), <em>The Determinants of Success of Special Interests in Redistributive Politics</em> — JOP</li>
+<li>Dixit & Londregan (1998), <em>Ideology, Tactics, and Efficiency in Redistributive Politics</em> — QJE</li>
+<li>Shepsle & Weingast (1981), <em>Political Preferences for the Pork Barrel</em> — AJPS</li>
+<li>Snyder & Ting (2002), <em>An Informational Rationale for Political Parties</em> — AJPS</li>
+<li>Caillaud & Tirole (2002), <em>Parties as Political Intermediaries</em> — QJE</li>
+<li>Aldrich (1983), <em>A Downsian Spatial Model with Party Activism</em> — APSR</li>
+<li>Strøm (1990), <em>A Behavioral Theory of Competitive Political Parties</em> — AJPS</li>
+</ul>
+<p>The swing-versus-core question turns on how efficiently parties can target, not on ideology. Snyder & Ting, Caillaud & Tirole and Aldrich give three incompatible answers to what a party solves — an informational problem, an intermediation problem, or activist aggregation. Shepsle & Weingast's pork result is legislative-organisational and sits at an angle to all of them.</p>
+<p><em>Not covered: Adams/Merrill/Grofman chs. 1–3 and the Cox (2010) chapter are books and not in the source set.</em></p>]]></description>
+      <itunes:summary><![CDATA[<p><strong>Week 2 — Party Competition and Pork-Barrel Politics</strong> (4–8 May)</p>
+<p>How Downsian convergence breaks once you add valence, probabilistic voting and the ability to target transfers — and what a party actually <em>is</em> in a formal model.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Dixit & Londregan (1996), <em>The Determinants of Success of Special Interests in Redistributive Politics</em> — JOP</li>
+<li>Dixit & Londregan (1998), <em>Ideology, Tactics, and Efficiency in Redistributive Politics</em> — QJE</li>
+<li>Shepsle & Weingast (1981), <em>Political Preferences for the Pork Barrel</em> — AJPS</li>
+<li>Snyder & Ting (2002), <em>An Informational Rationale for Political Parties</em> — AJPS</li>
+<li>Caillaud & Tirole (2002), <em>Parties as Political Intermediaries</em> — QJE</li>
+<li>Aldrich (1983), <em>A Downsian Spatial Model with Party Activism</em> — APSR</li>
+<li>Strøm (1990), <em>A Behavioral Theory of Competitive Political Parties</em> — AJPS</li>
+</ul>
+<p>The swing-versus-core question turns on how efficiently parties can target, not on ideology. Snyder & Ting, Caillaud & Tirole and Aldrich give three incompatible answers to what a party solves — an informational problem, an intermediation problem, or activist aggregation. Shepsle & Weingast's pork result is legislative-organisational and sits at an angle to all of them.</p>
+<p><em>Not covered: Adams/Merrill/Grofman chs. 1–3 and the Cox (2010) chapter are books and not in the source set.</em></p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Week 2 — Party Competition and Pork-Barrel Politics</strong> (4–8 May)</p>
+<p>How Downsian convergence breaks once you add valence, probabilistic voting and the ability to target transfers — and what a party actually <em>is</em> in a formal model.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Dixit & Londregan (1996), <em>The Determinants of Success of Special Interests in Redistributive Politics</em> — JOP</li>
+<li>Dixit & Londregan (1998), <em>Ideology, Tactics, and Efficiency in Redistributive Politics</em> — QJE</li>
+<li>Shepsle & Weingast (1981), <em>Political Preferences for the Pork Barrel</em> — AJPS</li>
+<li>Snyder & Ting (2002), <em>An Informational Rationale for Political Parties</em> — AJPS</li>
+<li>Caillaud & Tirole (2002), <em>Parties as Political Intermediaries</em> — QJE</li>
+<li>Aldrich (1983), <em>A Downsian Spatial Model with Party Activism</em> — APSR</li>
+<li>Strøm (1990), <em>A Behavioral Theory of Competitive Political Parties</em> — AJPS</li>
+</ul>
+<p>The swing-versus-core question turns on how efficiently parties can target, not on ideology. Snyder & Ting, Caillaud & Tirole and Aldrich give three incompatible answers to what a party solves — an informational problem, an intermediation problem, or activist aggregation. Shepsle & Weingast's pork result is legislative-organisational and sits at an angle to all of them.</p>
+<p><em>Not covered: Adams/Merrill/Grofman chs. 1–3 and the Cox (2010) chapter are books and not in the source set.</em></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>M03 — Formal Models of Electoral Rules</title>
+      <itunes:title>M03 — Formal Models of Electoral Rules</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">60176f06da93bfd9c1fc102a430e2b624f9e02dd</guid>
+      <pubDate>Wed, 26 Aug 2026 15:40:48 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/03-formal-models-of-electoral-rules.mp3" length="11200256" type="audio/mpeg"/>
+      <itunes:duration>00:15:33</itunes:duration>
+      <description><![CDATA[<p><strong>Week 3 — Formal Models of Electoral Rules</strong> (11–15 May)</p>
+<p>Why majoritarian systems produce narrowly targeted spending and PR systems produce broad programmes — and whether that regularity comes from targetability or from coalition formation.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Persson, Roland & Tabellini (2000), <em>Comparative Politics and Public Finance</em> — JPE</li>
+<li>Myerson (1993), <em>Incentives to Cultivate Favored Minorities</em> — APSR</li>
+<li>Lizzeri & Persico (2005), <em>A Drawback of Electoral Competition</em> — JEEA</li>
+<li>Iversen & Soskice (2006), <em>Electoral Institutions and the Politics of Coalitions</em> — APSR</li>
+<li>Austen-Smith (2000), <em>Redistributing Income under Proportional Representation</em> — JPE</li>
+<li>Ashworth & Bueno de Mesquita (2006), <em>Delivering the Goods</em> — JOP</li>
+<li>Callander (2005), <em>Duverger's Hypothesis, the Run-Off Rule, and Electoral Competition</em> — Political Analysis</li>
+<li>Becher (2016), <em>Endogenous Credible Commitment</em> — AJPS</li>
+</ul>
+<p>Persson–Roland–Tabellini and Iversen–Soskice explain the same cross-national fiscal pattern with different machinery, and the episode's central question is what evidence could tell them apart.</p>
+<p><em>Not covered: the required reading for this week is Persson & Tabellini ch. 9, a book chapter not in the source set — the episode is carried entirely by the optional articles.</em></p>]]></description>
+      <itunes:summary><![CDATA[<p><strong>Week 3 — Formal Models of Electoral Rules</strong> (11–15 May)</p>
+<p>Why majoritarian systems produce narrowly targeted spending and PR systems produce broad programmes — and whether that regularity comes from targetability or from coalition formation.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Persson, Roland & Tabellini (2000), <em>Comparative Politics and Public Finance</em> — JPE</li>
+<li>Myerson (1993), <em>Incentives to Cultivate Favored Minorities</em> — APSR</li>
+<li>Lizzeri & Persico (2005), <em>A Drawback of Electoral Competition</em> — JEEA</li>
+<li>Iversen & Soskice (2006), <em>Electoral Institutions and the Politics of Coalitions</em> — APSR</li>
+<li>Austen-Smith (2000), <em>Redistributing Income under Proportional Representation</em> — JPE</li>
+<li>Ashworth & Bueno de Mesquita (2006), <em>Delivering the Goods</em> — JOP</li>
+<li>Callander (2005), <em>Duverger's Hypothesis, the Run-Off Rule, and Electoral Competition</em> — Political Analysis</li>
+<li>Becher (2016), <em>Endogenous Credible Commitment</em> — AJPS</li>
+</ul>
+<p>Persson–Roland–Tabellini and Iversen–Soskice explain the same cross-national fiscal pattern with different machinery, and the episode's central question is what evidence could tell them apart.</p>
+<p><em>Not covered: the required reading for this week is Persson & Tabellini ch. 9, a book chapter not in the source set — the episode is carried entirely by the optional articles.</em></p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Week 3 — Formal Models of Electoral Rules</strong> (11–15 May)</p>
+<p>Why majoritarian systems produce narrowly targeted spending and PR systems produce broad programmes — and whether that regularity comes from targetability or from coalition formation.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Persson, Roland & Tabellini (2000), <em>Comparative Politics and Public Finance</em> — JPE</li>
+<li>Myerson (1993), <em>Incentives to Cultivate Favored Minorities</em> — APSR</li>
+<li>Lizzeri & Persico (2005), <em>A Drawback of Electoral Competition</em> — JEEA</li>
+<li>Iversen & Soskice (2006), <em>Electoral Institutions and the Politics of Coalitions</em> — APSR</li>
+<li>Austen-Smith (2000), <em>Redistributing Income under Proportional Representation</em> — JPE</li>
+<li>Ashworth & Bueno de Mesquita (2006), <em>Delivering the Goods</em> — JOP</li>
+<li>Callander (2005), <em>Duverger's Hypothesis, the Run-Off Rule, and Electoral Competition</em> — Political Analysis</li>
+<li>Becher (2016), <em>Endogenous Credible Commitment</em> — AJPS</li>
+</ul>
+<p>Persson–Roland–Tabellini and Iversen–Soskice explain the same cross-national fiscal pattern with different machinery, and the episode's central question is what evidence could tell them apart.</p>
+<p><em>Not covered: the required reading for this week is Persson & Tabellini ch. 9, a book chapter not in the source set — the episode is carried entirely by the optional articles.</em></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>M04 — Interest Groups and Lobbying</title>
+      <itunes:title>M04 — Interest Groups and Lobbying</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e5bdc8a88be6f07c98add91c756dfeff780d2183</guid>
+      <pubDate>Thu, 27 Aug 2026 15:40:48 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/04-interest-groups-and-lobbying.mp3" length="19046705" type="audio/mpeg"/>
+      <itunes:duration>00:26:27</itunes:duration>
+      <description><![CDATA[<p><strong>Week 4 — Interest Groups and Lobbying</strong> (18–22 May)</p>
+<p>What lobbying actually buys: policy, access, or the legislative labour of allies already on your side.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Schnakenberg & Turner (2024), <em>Formal Theories of Special Interest Influence</em> — ARPS <em>(SocArXiv preprint)</em></li>
+<li>Awad (2024), <em>Understanding Influence in Informational Lobbying</em> — Interest Groups & Advocacy <em>(SocArXiv preprint)</em></li>
+<li>Grossman & Helpman (1994), <em>Protection for Sale</em> — AER</li>
+<li>Hall & Deardorff (2006), <em>Lobbying as Legislative Subsidy</em> — APSR</li>
+<li>Laffont & Tirole (1991), <em>A Theory of Regulatory Capture</em> — QJE</li>
+<li>Ansolabehere, de Figueiredo & Snyder (2003), <em>Why Is There so Little Money in U.S. Politics?</em> — JEP</li>
+<li>Bertrand, Bombardini & Trebbi (2014), <em>Is It Whom You Know or What You Know?</em> — AER</li>
+<li>Wolton (2021), <em>Lobbying, Inside and Out</em> — QJPS <em>(LSE working paper version)</em></li>
+<li>Hirsch, Kang, Montagnes & You (2023), <em>Lobbyists as Gatekeepers</em> — JOP <em>(author copy)</em></li>
+<li>Besley & Coate (2001), <em>Lobbying and Welfare in a Representative Democracy</em> — RESTUD</li>
+<li>Zingales (2017), <em>Towards a Political Theory of the Firm</em> — JEP</li>
+<li>You (2017), <em>Ex Post Lobbying</em> — JOP</li>
+<li>Kim (2017), <em>Political Cleavages within Industry</em> — APSR</li>
+</ul>
+<p>The standing puzzle: if Protection for Sale is right about the returns, observed lobbying spending is orders of magnitude too small.</p>
+<p><em>Not covered: Culpepper, Quiet Politics and Business Power, is a book and not in the source set.</em></p>]]></description>
+      <itunes:summary><![CDATA[<p><strong>Week 4 — Interest Groups and Lobbying</strong> (18–22 May)</p>
+<p>What lobbying actually buys: policy, access, or the legislative labour of allies already on your side.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Schnakenberg & Turner (2024), <em>Formal Theories of Special Interest Influence</em> — ARPS <em>(SocArXiv preprint)</em></li>
+<li>Awad (2024), <em>Understanding Influence in Informational Lobbying</em> — Interest Groups & Advocacy <em>(SocArXiv preprint)</em></li>
+<li>Grossman & Helpman (1994), <em>Protection for Sale</em> — AER</li>
+<li>Hall & Deardorff (2006), <em>Lobbying as Legislative Subsidy</em> — APSR</li>
+<li>Laffont & Tirole (1991), <em>A Theory of Regulatory Capture</em> — QJE</li>
+<li>Ansolabehere, de Figueiredo & Snyder (2003), <em>Why Is There so Little Money in U.S. Politics?</em> — JEP</li>
+<li>Bertrand, Bombardini & Trebbi (2014), <em>Is It Whom You Know or What You Know?</em> — AER</li>
+<li>Wolton (2021), <em>Lobbying, Inside and Out</em> — QJPS <em>(LSE working paper version)</em></li>
+<li>Hirsch, Kang, Montagnes & You (2023), <em>Lobbyists as Gatekeepers</em> — JOP <em>(author copy)</em></li>
+<li>Besley & Coate (2001), <em>Lobbying and Welfare in a Representative Democracy</em> — RESTUD</li>
+<li>Zingales (2017), <em>Towards a Political Theory of the Firm</em> — JEP</li>
+<li>You (2017), <em>Ex Post Lobbying</em> — JOP</li>
+<li>Kim (2017), <em>Political Cleavages within Industry</em> — APSR</li>
+</ul>
+<p>The standing puzzle: if Protection for Sale is right about the returns, observed lobbying spending is orders of magnitude too small.</p>
+<p><em>Not covered: Culpepper, Quiet Politics and Business Power, is a book and not in the source set.</em></p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Week 4 — Interest Groups and Lobbying</strong> (18–22 May)</p>
+<p>What lobbying actually buys: policy, access, or the legislative labour of allies already on your side.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Schnakenberg & Turner (2024), <em>Formal Theories of Special Interest Influence</em> — ARPS <em>(SocArXiv preprint)</em></li>
+<li>Awad (2024), <em>Understanding Influence in Informational Lobbying</em> — Interest Groups & Advocacy <em>(SocArXiv preprint)</em></li>
+<li>Grossman & Helpman (1994), <em>Protection for Sale</em> — AER</li>
+<li>Hall & Deardorff (2006), <em>Lobbying as Legislative Subsidy</em> — APSR</li>
+<li>Laffont & Tirole (1991), <em>A Theory of Regulatory Capture</em> — QJE</li>
+<li>Ansolabehere, de Figueiredo & Snyder (2003), <em>Why Is There so Little Money in U.S. Politics?</em> — JEP</li>
+<li>Bertrand, Bombardini & Trebbi (2014), <em>Is It Whom You Know or What You Know?</em> — AER</li>
+<li>Wolton (2021), <em>Lobbying, Inside and Out</em> — QJPS <em>(LSE working paper version)</em></li>
+<li>Hirsch, Kang, Montagnes & You (2023), <em>Lobbyists as Gatekeepers</em> — JOP <em>(author copy)</em></li>
+<li>Besley & Coate (2001), <em>Lobbying and Welfare in a Representative Democracy</em> — RESTUD</li>
+<li>Zingales (2017), <em>Towards a Political Theory of the Firm</em> — JEP</li>
+<li>You (2017), <em>Ex Post Lobbying</em> — JOP</li>
+<li>Kim (2017), <em>Political Cleavages within Industry</em> — APSR</li>
+</ul>
+<p>The standing puzzle: if Protection for Sale is right about the returns, observed lobbying spending is orders of magnitude too small.</p>
+<p><em>Not covered: Culpepper, Quiet Politics and Business Power, is a book and not in the source set.</em></p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>M05 — Democratic Backsliding</title>
+      <itunes:title>M05 — Democratic Backsliding</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">294da2a37ad93efacb8d5370461d60c944c24455</guid>
+      <pubDate>Fri, 28 Aug 2026 15:40:49 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/05-democratic-backsliding.mp3" length="17661164" type="audio/mpeg"/>
+      <itunes:duration>00:24:32</itunes:duration>
+      <description><![CDATA[<p><strong>Week 5 — Democratic Backsliding</strong> (25–29 May)</p>
+<p>Why voters would rationally hand power to leaders who dismantle the constraints protecting them.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Grillo, Luo, Nalepa & Prato (2024), <em>Theories of Democratic Backsliding</em> — ARPS</li>
+<li>Gratton & Lee (2024), <em>Liberty, Security, and Accountability</em> — RESTUD</li>
+<li>Luo & Przeworski (2023), <em>Democracy and Its Vulnerabilities</em> — QJPS <em>(author working-paper draft)</em></li>
+<li>Acemoglu, Robinson & Torvik (2013), <em>Why Do Voters Dismantle Checks and Balances?</em> — RESTUD</li>
+<li>Bernhardt, Krasa & Shadmehr (2022), <em>Demagogues and the Economic Fragility of Democracies</em> — AER</li>
+<li>Graham & Svolik (2020), <em>Democracy in America?</em> — APSR</li>
+<li>Helmke, Kroeger & Paine (2022), <em>Democracy by Deterrence</em> — AJPS</li>
+<li>Weingast (1997), <em>The Political Foundations of Democracy and the Rule of Law</em> — APSR</li>
+<li>Kaufman & Haggard (2019), <em>Democratic Decline in the United States</em> — Perspectives on Politics</li>
+</ul>
+<p>Three competing engines: a liberty–security tradeoff, incumbent entrenchment dynamics, and voters trading democratic principle for partisan advantage. Weingast's coordination account and Helmke et al.'s deterrence model may be the same mechanism in different vocabulary.</p>]]></description>
+      <itunes:summary><![CDATA[<p><strong>Week 5 — Democratic Backsliding</strong> (25–29 May)</p>
+<p>Why voters would rationally hand power to leaders who dismantle the constraints protecting them.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Grillo, Luo, Nalepa & Prato (2024), <em>Theories of Democratic Backsliding</em> — ARPS</li>
+<li>Gratton & Lee (2024), <em>Liberty, Security, and Accountability</em> — RESTUD</li>
+<li>Luo & Przeworski (2023), <em>Democracy and Its Vulnerabilities</em> — QJPS <em>(author working-paper draft)</em></li>
+<li>Acemoglu, Robinson & Torvik (2013), <em>Why Do Voters Dismantle Checks and Balances?</em> — RESTUD</li>
+<li>Bernhardt, Krasa & Shadmehr (2022), <em>Demagogues and the Economic Fragility of Democracies</em> — AER</li>
+<li>Graham & Svolik (2020), <em>Democracy in America?</em> — APSR</li>
+<li>Helmke, Kroeger & Paine (2022), <em>Democracy by Deterrence</em> — AJPS</li>
+<li>Weingast (1997), <em>The Political Foundations of Democracy and the Rule of Law</em> — APSR</li>
+<li>Kaufman & Haggard (2019), <em>Democratic Decline in the United States</em> — Perspectives on Politics</li>
+</ul>
+<p>Three competing engines: a liberty–security tradeoff, incumbent entrenchment dynamics, and voters trading democratic principle for partisan advantage. Weingast's coordination account and Helmke et al.'s deterrence model may be the same mechanism in different vocabulary.</p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Week 5 — Democratic Backsliding</strong> (25–29 May)</p>
+<p>Why voters would rationally hand power to leaders who dismantle the constraints protecting them.</p>
+<p><strong>Readings</strong></p>
+<ul>
+<li>Grillo, Luo, Nalepa & Prato (2024), <em>Theories of Democratic Backsliding</em> — ARPS</li>
+<li>Gratton & Lee (2024), <em>Liberty, Security, and Accountability</em> — RESTUD</li>
+<li>Luo & Przeworski (2023), <em>Democracy and Its Vulnerabilities</em> — QJPS <em>(author working-paper draft)</em></li>
+<li>Acemoglu, Robinson & Torvik (2013), <em>Why Do Voters Dismantle Checks and Balances?</em> — RESTUD</li>
+<li>Bernhardt, Krasa & Shadmehr (2022), <em>Demagogues and the Economic Fragility of Democracies</em> — AER</li>
+<li>Graham & Svolik (2020), <em>Democracy in America?</em> — APSR</li>
+<li>Helmke, Kroeger & Paine (2022), <em>Democracy by Deterrence</em> — AJPS</li>
+<li>Weingast (1997), <em>The Political Foundations of Democracy and the Rule of Law</em> — APSR</li>
+<li>Kaufman & Haggard (2019), <em>Democratic Decline in the United States</em> — Perspectives on Politics</li>
+</ul>
+<p>Three competing engines: a liberty–security tradeoff, incumbent entrenchment dynamics, and voters trading democratic principle for partisan advantage. Weingast's coordination account and Helmke et al.'s deterrence model may be the same mechanism in different vocabulary.</p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
