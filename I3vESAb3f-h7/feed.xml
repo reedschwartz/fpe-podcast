@@ -4,30 +4,30 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Formal Political Economy (Edenhofer, Trinity 2026)</title>
+    <title>Reed's Reading Queue</title>
     <link>https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7</link>
-    <language>en-gb</language>
-    <description><![CDATA[Weekly audio companion to Jacob Edenhofer's Trinity Term 2026 course at Nuffield College, Oxford. One episode per week, working through that week's canonical model and the literature around it: electoral accountability, party competition and pork barrel, electoral rules, interest groups and lobbying, and democratic backsliding.]]></description>
-    <itunes:subtitle>A second introduction to formal political economy</itunes:subtitle>
+    <language>en-us</language>
+    <description><![CDATA[Formal political economy, housing and transport policy — syllabus weeks and one-off papers, turned into conversations.]]></description>
+    <itunes:subtitle></itunes:subtitle>
     <itunes:author>Reed Schwartz</itunes:author>
     <itunes:owner>
       <itunes:name>Reed Schwartz</itunes:name>
       <itunes:email>reed.schwartzsf@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:type>serial</itunes:type>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
-    <googleplay:block xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">yes</googleplay:block>
     <atom:link href="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>M01 — Models of Electoral Accountability</title>
       <itunes:title>M01 — Models of Electoral Accountability</itunes:title>
+      <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">f1ab1a97a12614d48f938fecdc4450b4f4458324</guid>
       <pubDate>Mon, 24 Aug 2026 15:40:47 +0000</pubDate>
-      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/01-models-of-electoral-accountability.mp3" length="18701267" type="audio/mpeg"/>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/formal-political-economy-2026-01-models-of-electoral-accountability.mp3" length="18701267" type="audio/mpeg"/>
       <itunes:duration>00:25:58</itunes:duration>
       <description><![CDATA[<p><strong>Week 1 — Models of Electoral Accountability</strong> (27 April – 1 May)</p>
 <p>Whether elections discipline politicians by <em>selecting</em> good types or by <em>sanctioning</em> bad performance — and why the distinction collapses once the two mechanisms interact.</p>
@@ -82,11 +82,12 @@
     <item>
       <title>M02 — Party Competition and Pork-Barrel Politics</title>
       <itunes:title>M02 — Party Competition and Pork-Barrel Politics</itunes:title>
+      <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">33ea571293df52c018e3e870de3ddbed84106749</guid>
       <pubDate>Tue, 25 Aug 2026 15:40:48 +0000</pubDate>
-      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/02-party-competition-and-pork-barrel-politics.mp3" length="20532563" type="audio/mpeg"/>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/formal-political-economy-2026-02-party-competition-and-pork-barrel-politics.mp3" length="18701094" type="audio/mpeg"/>
       <itunes:duration>00:28:31</itunes:duration>
       <description><![CDATA[<p><strong>Week 2 — Party Competition and Pork-Barrel Politics</strong> (4–8 May)</p>
 <p>How Downsian convergence breaks once you add valence, probabilistic voting and the ability to target transfers — and what a party actually <em>is</em> in a formal model.</p>
@@ -135,11 +136,12 @@
     <item>
       <title>M03 — Formal Models of Electoral Rules</title>
       <itunes:title>M03 — Formal Models of Electoral Rules</itunes:title>
+      <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">60176f06da93bfd9c1fc102a430e2b624f9e02dd</guid>
       <pubDate>Wed, 26 Aug 2026 15:40:48 +0000</pubDate>
-      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/03-formal-models-of-electoral-rules.mp3" length="11200256" type="audio/mpeg"/>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/formal-political-economy-2026-03-formal-models-of-electoral-rules.mp3" length="11200256" type="audio/mpeg"/>
       <itunes:duration>00:15:33</itunes:duration>
       <description><![CDATA[<p><strong>Week 3 — Formal Models of Electoral Rules</strong> (11–15 May)</p>
 <p>Why majoritarian systems produce narrowly targeted spending and PR systems produce broad programmes — and whether that regularity comes from targetability or from coalition formation.</p>
@@ -191,11 +193,12 @@
     <item>
       <title>M04 — Interest Groups and Lobbying</title>
       <itunes:title>M04 — Interest Groups and Lobbying</itunes:title>
+      <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">e5bdc8a88be6f07c98add91c756dfeff780d2183</guid>
       <pubDate>Thu, 27 Aug 2026 15:40:48 +0000</pubDate>
-      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/04-interest-groups-and-lobbying.mp3" length="19046705" type="audio/mpeg"/>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/formal-political-economy-2026-04-interest-groups-and-lobbying.mp3" length="19046705" type="audio/mpeg"/>
       <itunes:duration>00:26:27</itunes:duration>
       <description><![CDATA[<p><strong>Week 4 — Interest Groups and Lobbying</strong> (18–22 May)</p>
 <p>What lobbying actually buys: policy, access, or the legislative labour of allies already on your side.</p>
@@ -262,11 +265,12 @@
     <item>
       <title>M05 — Democratic Backsliding</title>
       <itunes:title>M05 — Democratic Backsliding</itunes:title>
+      <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">294da2a37ad93efacb8d5370461d60c944c24455</guid>
       <pubDate>Fri, 28 Aug 2026 15:40:49 +0000</pubDate>
-      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/05-democratic-backsliding.mp3" length="17661164" type="audio/mpeg"/>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/formal-political-economy-2026-05-democratic-backsliding.mp3" length="17661164" type="audio/mpeg"/>
       <itunes:duration>00:24:32</itunes:duration>
       <description><![CDATA[<p><strong>Week 5 — Democratic Backsliding</strong> (25–29 May)</p>
 <p>Why voters would rationally hand power to leaders who dismantle the constraints protecting them.</p>
