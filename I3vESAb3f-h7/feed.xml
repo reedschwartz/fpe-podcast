@@ -319,5 +319,28 @@
 <p>Three competing engines: a liberty–security tradeoff, incumbent entrenchment dynamics, and voters trading democratic principle for partisan advantage. Weingast's coordination account and Helmke et al.'s deterrence model may be the same mechanism in different vocabulary.</p>]]></content:encoded>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Econometric War Over Housing Elasticity</title>
+      <itunes:title>The Econometric War Over Housing Elasticity</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5dd6b38180974008d229495acbf4151945376706</guid>
+      <pubDate>Tue, 27 Oct 2026 20:17:57 +0000</pubDate>
+      <enclosure url="https://reedschwartz.github.io/fpe-podcast/I3vESAb3f-h7/audio/singles-01-do-supply-constraints-explain-anything.mp3" length="23020402" type="audio/mpeg"/>
+      <itunes:duration>00:31:58</itunes:duration>
+      <description><![CDATA[<p>Two Federal Reserve working papers reach opposite conclusions from nearly the same data, and the disagreement is a clean lesson in how much specification choices carry.</p>
+<p><strong>Louie, Mondragon & Wieland (February 2026)</strong> find that from 2000 to 2020, higher income growth predicts the same growth in house prices, housing quantity and population <em>regardless</em> of a city's estimated housing supply elasticity — implying measured supply constraints don't explain differences in housing dynamics across U.S. cities.</p>
+<p><strong>Murphy & Shaheen (Federal Reserve Bank of Dallas, Working Paper 2635, October 2026)</strong> stay close to that setup and reach the opposite result. The dispute turns on four concrete choices: an annual panel with year and MSA fixed effects versus a 2000–2020 long difference; permits versus housing units as the supply measure; the price level versus price growth on the right-hand side; and population-weighted versus unweighted regressions.</p>
+<p><strong>Louie, Mondragon, Najjar & Wieland (San Francisco Fed, Working Paper 2026-18)</strong> is the constructive follow-up, generalising the single-margin model by allowing both quantity and quality to adjust, and adding income inequality.</p>]]></description>
+      <itunes:summary><![CDATA[<p>Two Federal Reserve working papers reach opposite conclusions from nearly the same data, and the disagreement is a clean lesson in how much specification choices carry.</p>
+<p><strong>Louie, Mondragon & Wieland (February 2026)</strong> find that from 2000 to 2020, higher income growth predicts the same growth in house prices, housing quantity and population <em>regardless</em> of a city's estimated housing supply elasticity — implying measured supply constraints don't explain differences in housing dynamics across U.S. cities.</p>
+<p><strong>Murphy & Shaheen (Federal Reserve Bank of Dallas, Working Paper 2635, October 2026)</strong> stay close to that setup and reach the opposite result. The dispute turns on four concrete choices: an annual panel with year and MSA fixed effects versus a 2000–2020 long difference; permits versus housing units as the supply measure; the price level versus price growth on the right-hand side; and population-weighted versus unweighted regressions.</p>
+<p><strong>Louie, Mondragon, Najjar & Wieland (San Francisco Fed, Working Paper 2026-18)</strong> is the constructive follow-up, generalising the single-margin model by allowing both quantity and quality to adjust, and adding income inequality.</p>]]></itunes:summary>
+      <content:encoded><![CDATA[<p>Two Federal Reserve working papers reach opposite conclusions from nearly the same data, and the disagreement is a clean lesson in how much specification choices carry.</p>
+<p><strong>Louie, Mondragon & Wieland (February 2026)</strong> find that from 2000 to 2020, higher income growth predicts the same growth in house prices, housing quantity and population <em>regardless</em> of a city's estimated housing supply elasticity — implying measured supply constraints don't explain differences in housing dynamics across U.S. cities.</p>
+<p><strong>Murphy & Shaheen (Federal Reserve Bank of Dallas, Working Paper 2635, October 2026)</strong> stay close to that setup and reach the opposite result. The dispute turns on four concrete choices: an annual panel with year and MSA fixed effects versus a 2000–2020 long difference; permits versus housing units as the supply measure; the price level versus price growth on the right-hand side; and population-weighted versus unweighted regressions.</p>
+<p><strong>Louie, Mondragon, Najjar & Wieland (San Francisco Fed, Working Paper 2026-18)</strong> is the constructive follow-up, generalising the single-margin model by allowing both quantity and quality to adjust, and adding income inequality.</p>]]></content:encoded>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
